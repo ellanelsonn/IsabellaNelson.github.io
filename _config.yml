@@ -97,8 +97,8 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/img/Knox_Catherine.JPG"
-  bio              : "An engineering student with a passion for nuclear technology and aerospace "
+  avatar           : "/assets/img/QTS24JR-58.jpg"
+  bio              : "An engineering student with a passion for nuclear technology and software engineering "
   location         : "Nashville, TN"
   links:
     - label: "LinkedIn"
@@ -110,7 +110,7 @@ footer:
   links:
     - label: "LinkedIN"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/catherine-knox2003"
+      url: "www.linkedin.com/in/isabellagnelson"
 
 
 # Reading Files
