@@ -1,30 +1,25 @@
 ---
 
-title: "About Catherine Knox"
+title: "About Isabella Nelson"
 
 ---
 
 ## Education
 
-Catherine Knox is a mechanical engineering student interested in aeropsace and nuclear technology. She holds experience in additive manufacturing, machining, and project management. 
+Isabella Nelson is a computer science student interested in machine learning and AI technology. 
 
 * Vanderbilt University 
-  * Pursuing a BE in Mechanical Engineering
+  * Pursuing a B.S. in Computer Science and a B.A. in Applied Mathematics
+     * Minor in Data Science
   * Expected Graduation: 2026
 
 ## Technical Skills
 
-Catherine can operate a number of 3D printers as well as machining tools. Catherine has experience with the following technologies:
+Isabella is proficient in multiple languages including Python, C++, Java, and R.
 
-* Digital Fabrication Tools
-  * Fused Filament Fabrication (FFF)
-   
-* Machining Tools
-  * Metal Lathes
+## Profesional Skills
 
-## Proffesional Skills
-
-Catherine also has experience managing engineering organizations. She holds the role of Chief People Officer and Advanced Concept System Leader in the [Vanderbilt Fusion Project](https://www.vanderbiltfusion.org/). She also runs her own tutoring business named [Cat's Tutoring](https://catstutoring.squarespace.com/) in which she tutors students at local Nashville High Schools and helps to set up other Vanderbilt students with a tutoring job. Some of her specific proffesional skills include:
+Isabella also has experience managing engineering organizations. 
 
 * Organizational Management
 * Microsoft Suite
